@@ -1,1 +1,1 @@
-readme file is present inside the appointy-masster folder
+readme file is present inside the appointy-master folder
